@@ -1,0 +1,19 @@
+/* Custom CSS */
+
+.border-gradient {
+  border: 1em transparent;
+  border-radius: 10px;
+  background-image: linear-gradient(#f9f9f9, #f9f9f9),
+    linear-gradient(90.26deg, #217eec -1.17%, #082299 102.11%);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+}
+
+.card-gradient{
+  background: linear-gradient(222.94deg, #051A91 -4.31%, #061C93 14.41%, #2284F1 81.88%, #1F80EB 103.81%);
+}
+
+.logo-shadow{
+  box-shadow: 0px 0px 31px 0px rgba(8, 56, 153, 0.4);
+
+}
