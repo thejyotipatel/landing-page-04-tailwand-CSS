@@ -32,7 +32,7 @@ const HeroComponent = () => {
   return (
     <>
       <div className=''>
-        <div className='flex  items-center gap-2 my-10'>
+        <div className='flex  items-center gap-2 my-10 flex-wrap'>
           <span className=' text-2xl  text-[#696671]'>
             <GoHome />
           </span>
@@ -56,7 +56,7 @@ const HeroComponent = () => {
           </a>
         </div>
 
-        <h1 className='text-3xl font-bold'>
+        <h1 className=' sm:text-3xl text-xl font-bold '>
           <span class='bg-clip-text text-transparent bg-gradient-to-t from-[#164EC0] to-[#06286E] '>
             Relations and Functions ( Mathematics )
           </span>

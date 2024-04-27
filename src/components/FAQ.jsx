@@ -10,8 +10,7 @@ const faqData = [
   },
   {
     id: 2,
-    header:
-      'How do education flashcards work? How do education flashcards work?',
+    header: 'How do education flashcards work? ',
     description:
       'How do education flashcards work? How do education flashcards work? ',
   },
@@ -26,7 +25,7 @@ const FAQ = () => {
   return (
     <>
       <div className=' mt-10'>
-        <div className='flex justify-between items-center'>
+        <div className='flex justify-between items-center flex-wrap gap-8'>
           <div className=' inline-flex items-center justify-center gap-4'>
             <img
               src='./Group.svg'
@@ -61,7 +60,7 @@ const FAQ = () => {
           </span>
         </h1>
 
-        <ul className='flex flex-col gap-10'>
+        <ul className='flex flex-col gap-10 mb-48'>
           {faqData.map((item) => {
             return (
               <div key={item.id} className='border-gradient p-[1px]  max-w-4xl'>
