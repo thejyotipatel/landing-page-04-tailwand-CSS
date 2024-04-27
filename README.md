@@ -2,13 +2,15 @@
 
 ## Preview
 
-[Project]()
-
-<!-- TABLE OF CONTENTS -->
+[Project](https://lustrous-nougat-241673.netlify.app/)
 
 <!-- OVERVIEW -->
 
 ## Overview
+
+![image](https://github.com/thejyotipatel/landing-page-04-tailwand-CSS/assets/66724598/b75b7f9a-7ce4-4a6e-bbda-d8746e6f97f5)
+
+![image](https://github.com/thejyotipatel/landing-page-04-tailwand-CSS/assets/66724598/1a68abe1-86ed-4e37-8b4f-484f563002f8)
 
 ### Built With
 
@@ -42,5 +44,4 @@ $ npm run dev
 ## Contact
 
 - Email jyotip99755@gmail.com
-- Twitter [@thejyotipatel](https://twitter.com/thejyotipatel)
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
